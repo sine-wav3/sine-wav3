@@ -1,6 +1,6 @@
 <img align="right" width="340" src="homura.png" alt="homura akemi"/>
 
-## ⏳ sine-wav3
+### ⏳ sine-wav3
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=B79CED&width=520&lines=;No+importa+cu%C3%A1ntas+veces+tenga+que+repetirlo...;voy+a+resolver+este+bug.)](https://git.io/typing-svg)
 ![boss](https://img.shields.io/badge/Ingenieria_de_sistemas-HP_9999-c0392b?style=for-the-badge&labelColor=000000)
 ![status](https://img.shields.io/badge/status-cansada-b79ced?style=for-the-badge&labelColor=1a1033)
