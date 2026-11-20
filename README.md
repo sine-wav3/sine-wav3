@@ -6,8 +6,6 @@
 ![status](https://img.shields.io/badge/status-cansada-b79ced?style=for-the-badge&labelColor=1a1033)
 <br clear="right"/>
 
-✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦
-
 <div align="center">⏳ ─────── ⏳ ─────── ⏳</div>
 
 ### 🔮 sobre mí
@@ -28,6 +26,10 @@
 ### 📊 stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sine-wav3&show_icons=true&bg_color=0d0b1a&title_color=b79ced&text_color=d8c8ff&icon_color=c0392b&border_color=6b3fa0)
+
+### 🐍 mis contribuciones
+
+<img src="https://raw.githubusercontent.com/sine-wav3/sine-wav3/output/snake.svg" alt="snake" width="100%"/>
 
 <div align="center">
 
