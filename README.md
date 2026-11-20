@@ -14,8 +14,6 @@
 - 🌙 Aprendiendo a programar (a duras penas)
 - 📫 daniela.franco.ibarra@correounivalle.edu.co
 
-<div align="center">⏳ ─────── ⏳ ─────── ⏳</div>
-
 ### 🛠️ mi arsenal
 
 ![Python](https://img.shields.io/badge/Python-1a1033?style=for-the-badge&logo=python&logoColor=b79ced)
@@ -31,13 +29,11 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sine-wav3&show_icons=true&bg_color=0d0b1a&title_color=b79ced&text_color=d8c8ff&icon_color=c0392b&border_color=6b3fa0)
 
-<div align="center">⏳ ─────── ⏳ ─────── ⏳</div>
-
 ### 🐍 mis contribuciones
 
 <img src="https://raw.githubusercontent.com/sine-wav3/sine-wav3/output/snake.svg" alt="snake" width="100%"/>
 
-<div align="center">
+<div align="center">⏳ ─────── ⏳ ─────── ⏳</div>
 
 *"el tiempo se repite, pero el código compila al final"* 🟣
 
