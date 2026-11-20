@@ -1,4 +1,4 @@
-<img align="right" width="340" src="homura2.png" alt="homura akemi"/>
+<img align="right" width="300" src="homura2.png" alt="homura akemi"/>
 
 ### ⏳ sine-wav3
 
