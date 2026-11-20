@@ -7,7 +7,7 @@
 ![status](https://img.shields.io/badge/status-cansada-b79ced?style=for-the-badge&labelColor=1a1033)
 <br clear="right"/>
 
-✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦
+✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦
 
 ---
 
