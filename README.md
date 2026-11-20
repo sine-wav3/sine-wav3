@@ -2,7 +2,7 @@
 
 #### ⏳ sine-wav3
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=B79CED&width=520&lines=;No+importa+cu%C3%A1ntas+veces+tenga+que+repetirlo...;voy+a+resolver+este+bug.)](https://git.io/typing-svg)
-![boss](https://img.shields.io/badge/Ingenieria_de_sistemas-HP_9999-c0392b?style=for-the-badge&labelColor=1a1033)
+![boss](https://img.shields.io/badge/Ingenieria_de_sistemas-HP_9999-c0392b?style=for-the-badge&labelColor=000000)
 ![status](https://img.shields.io/badge/status-cansada-b79ced?style=for-the-badge&labelColor=1a1033)
 <br clear="right"/>
 
@@ -14,6 +14,8 @@
 - 🌙 Aprendiendo a programar (a duras penas)
 - 📫 daniela.franco.ibarra@correounivalle.edu.co
 
+<div align="center">⏳ ─────── ⏳ ─────── ⏳</div>
+
 ### 🛠️ mi arsenal
 
 ![Python](https://img.shields.io/badge/Python-1a1033?style=for-the-badge&logo=python&logoColor=b79ced)
@@ -23,9 +25,13 @@
 ![Scala](https://img.shields.io/badge/Scala-1a1033?style=for-the-badge&logo=scala&logoColor=c0392b)
 ![React](https://img.shields.io/badge/React-1a1033?style=for-the-badge&logo=react&logoColor=b79ced)
 
+<div align="center">⏳ ─────── ⏳ ─────── ⏳</div>
+
 ### 📊 stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sine-wav3&show_icons=true&bg_color=0d0b1a&title_color=b79ced&text_color=d8c8ff&icon_color=c0392b&border_color=6b3fa0)
+
+<div align="center">⏳ ─────── ⏳ ─────── ⏳</div>
 
 ### 🐍 mis contribuciones
 
