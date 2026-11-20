@@ -2,7 +2,7 @@
 
 # ⏳ sine-wav3
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=B79CED&width=520&lines=Estamos+a+punto+de+pelear+contra+la+bruja+de+los+bugs...;No+importa+cu%C3%A1ntas+veces+tenga+que+repetirlo...;voy+a+resolver+este+bug.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=B79CED&width=520&lines=;No+importa+cu%C3%A1ntas+veces+tenga+que+repetirlo...;voy+a+resolver+este+bug.)](https://git.io/typing-svg)
 
 ![boss](https://img.shields.io/badge/bruja_de_los_bugs-HP_9999-c0392b?style=for-the-badge&labelColor=1a1033)
 ![status](https://img.shields.io/badge/status-transformada-b79ced?style=for-the-badge&labelColor=1a1033)
