@@ -8,12 +8,12 @@
 
 ✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦✦ ━━━ ✦
 
----
+<div align="center">⏳ ─────── ⏳ ─────── ⏳</div>
 
 ### 🔮 sobre mí
 
 - 🎓 Estudiante en la **Universidad del Valle**
-- 🌙 Aprendiendo a programar, un bug a la vez
+- 🌙 Aprendiendo a programar (a duras penas)
 - 📫 daniela.franco.ibarra@correounivalle.edu.co
 
 ### 🛠️ mi arsenal
@@ -22,6 +22,8 @@
 ![Java](https://img.shields.io/badge/Java-1a1033?style=for-the-badge&logo=openjdk&logoColor=b79ced)
 ![C++](https://img.shields.io/badge/C++-1a1033?style=for-the-badge&logo=cplusplus&logoColor=b79ced)
 ![Git](https://img.shields.io/badge/Git-1a1033?style=for-the-badge&logo=git&logoColor=c0392b)
+![Scala](https://img.shields.io/badge/Scala-1a1033?style=for-the-badge&logo=scala&logoColor=c0392b)
+![React](https://img.shields.io/badge/React-1a1033?style=for-the-badge&logo=react&logoColor=b79ced)
 
 ### 📊 stats
 
@@ -32,3 +34,4 @@
 *"el tiempo se repite, pero el código compila al final"* 🟣
 
 </div>
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6b3fa0,100:0d0b1a&section=footer&reversal=true)
