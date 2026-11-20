@@ -2,6 +2,11 @@
 
 ### ⏳ sine-wav3
 
+<div align="center">
+
+<img src="stamp-spacehey.gif" width="99" alt="stamp"/>
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=B79CED&width=520&lines=;No+importa+cu%C3%A1ntas+veces+tenga+que+repetirlo...;voy+a+resolver+este+bug.)](https://git.io/typing-svg)
 ![boss](https://img.shields.io/badge/Ingenieria_de_sistemas-HP_9999-c0392b?style=for-the-badge&labelColor=000000)
