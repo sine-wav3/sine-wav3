@@ -33,5 +33,7 @@
 
 *"el tiempo se repite, pero el código compila al final"* 🟣
 
-</div>
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6b3fa0,100:0d0b1a&section=footer&reversal=true)
+
+</div>
+
