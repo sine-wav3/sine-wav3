@@ -1,4 +1,4 @@
-<img align="right" width="230" src="homura2.png" alt="homura akemi"/>
+<img align="right" width="340" src="homura.png" alt="homura akemi"/>
 
 ### ⏳ sine-wav3
 
@@ -36,7 +36,7 @@
 
 <img src="https://raw.githubusercontent.com/sine-wav3/sine-wav3/output/snake.svg" alt="snake" width="100%"/>
 
-*"el tiempo se repite, pero el código compila al final"* 🟣
+<div align="center">*"el tiempo se repite, pero el código compila al final"* 🟣</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6b3fa0,100:0d0b1a&section=footer&reversal=true)
 
