@@ -30,11 +30,18 @@
 
 ### 📊 stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=sine-wav3&show_icons=true&bg_color=0d0b1a&title_color=b79ced&text_color=d8c8ff&icon_color=c0392b&border_color=6b3fa0)
-
-<br clear="right"/>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=e65mvcnpvz7xdjs5wmj7omuv0&cover_image=true&theme=compact&show_offline=false&background_color=261e38&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=sine-wav3&amp;show_icons=true&amp;bg_color=0d0b1a&amp;title_color=b79ced&amp;text_color=d8c8ff&amp;icon_color=c0392b&amp;border_color=6b3fa0" width="480" alt="stats"/>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e65mvcnpvz7xdjs5wmj7omuv0&amp;cover_image=true&amp;theme=compact&amp;show_offline=false&amp;background_color=261e38&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" width="300" alt="spotify"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ### 🐍 mis contribuciones
