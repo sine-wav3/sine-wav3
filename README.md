@@ -32,6 +32,8 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=sine-wav3&show_icons=true&bg_color=0d0b1a&title_color=b79ced&text_color=d8c8ff&icon_color=c0392b&border_color=6b3fa0)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=e65mvcnpvz7xdjs5wmj7omuv0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 ### 🐍 mis contribuciones
 
 <img src="https://raw.githubusercontent.com/sine-wav3/sine-wav3/output/snake.svg" alt="snake" width="100%"/>
