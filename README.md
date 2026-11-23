@@ -37,7 +37,7 @@
     </td>
     <td valign="top">
       <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e65mvcnpvz7xdjs5wmj7omuv0&amp;cover_image=true&amp;theme=compact&amp;show_offline=false&amp;background_color=261e38&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" width="300" alt="spotify"/>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=e65mvcnpvz7xdjs5wmj7omuv0&amp;cover_image=true&amp;theme=compact&amp;show_offline=false&amp;background_color=261e38&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" width="200" alt="spotify"/>
       </a>
     </td>
   </tr>
